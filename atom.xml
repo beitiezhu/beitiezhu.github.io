@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>贝のBlog</title>
   
-  
+  <subtitle>一期一会</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/beitiezhu/"/>
-  <updated>2019-07-28T13:05:01.093Z</updated>
+  <updated>2019-07-29T10:21:29.738Z</updated>
   <id>https://github.com/beitiezhu/</id>
   
   <author>
@@ -17,13 +17,53 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>换个角度看世界</title>
-    <link href="https://github.com/beitiezhu/2019/07/28/%E6%8D%A2%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E4%B8%96%E7%95%8C/"/>
-    <id>https://github.com/beitiezhu/2019/07/28/换个角度看世界/</id>
-    <published>2019-07-28T12:42:05.000Z</published>
-    <updated>2019-07-28T13:05:01.093Z</updated>
+    <title>科学上网</title>
+    <link href="https://github.com/beitiezhu/2019/07/29/7-29/"/>
+    <id>https://github.com/beitiezhu/2019/07/29/7-29/</id>
+    <published>2019-07-29T09:22:04.000Z</published>
+    <updated>2019-07-29T10:21:29.738Z</updated>
     
-    <content type="html"><![CDATA[<p>我们总是将世界理解为自己看到的样子，这也许就是人类渺小的原因吧</p><a id="more"></a><p>##这个世界，与你认识的并不同</p><p>###学习<br>学习始终是突破自我局限的最好方法</p><p>###角度<br>读万卷书，行万里路。<br>换个位置，换个角度，去欣赏这个世界，或许会有不一样的发现</p>]]></content>
+    <content type="html"><![CDATA[<p>换个角度看世界，你会更加热爱脚下的这片土地</p><a id="more"></a><p>因为本站今后走向的关系，可能需要一些科学上网的辅助方法<br>这里先介绍个简单易用且免费的方法，若对SSR、V2Ray及搭建私服有兴趣的话，还请关注本站及公众号</p><h3 id="免费加速器"><a href="#免费加速器" class="headerlink" title="免费加速器"></a>免费加速器</h3><p>在众多免费的加速器，或称之为梯子，这一个算是很好用的了。注册就送10g流量，每日签到也会送流量。<br>足以满足日常用度。近日又增设了无限流量的节点，更是在线视频爱好者的福音。<br>对于喜欢氪金的朋友们来说，该加速器也有在线充值，购买流量的服务。</p><p>在线注册请点击<a href="http://qiujiasu.com/?iv=12620" target="_blank" rel="noopener">球加速</a> 或直接百度</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;换个角度看世界，你会更加热爱脚下的这片土地&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="-福利" scheme="https://github.com/beitiezhu/categories/%E7%A6%8F%E5%88%A9/"/>
+    
+    
+      <category term="-福利 -酸酸乳 -免费" scheme="https://github.com/beitiezhu/tags/%E7%A6%8F%E5%88%A9-%E9%85%B8%E9%85%B8%E4%B9%B3-%E5%85%8D%E8%B4%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试-图片发布</title>
+    <link href="https://github.com/beitiezhu/2019/07/29/pic/"/>
+    <id>https://github.com/beitiezhu/2019/07/29/pic/</id>
+    <published>2019-07-29T04:36:30.000Z</published>
+    <updated>2019-07-29T09:20:48.459Z</updated>
+    
+    <content type="html"><![CDATA[<p>如何插入图片</p><a id="more"></a><p><img src="/beitiezhu/2019/07/29/pic/1.jpg" alt="头像"></p><p><img src="/beitiezhu/2019/07/29/pic/2.png" alt="日本仓镰"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如何插入图片&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>换个角度看世界</title>
+    <link href="https://github.com/beitiezhu/2019/07/29/%E6%8D%A2%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E4%B8%96%E7%95%8C/"/>
+    <id>https://github.com/beitiezhu/2019/07/29/换个角度看世界/</id>
+    <published>2019-07-29T03:51:33.000Z</published>
+    <updated>2019-07-29T09:21:06.253Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们总是将世界理解为自己看到的样子，这也许就是人类渺小的原因吧</p><a id="more"></a><h2 id="这个世界，与你认识的并不同"><a href="#这个世界，与你认识的并不同" class="headerlink" title="这个世界，与你认识的并不同"></a>这个世界，与你认识的并不同</h2><h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h3><p>学习始终是突破自我局限的最好方法</p><h3 id="角度"><a href="#角度" class="headerlink" title="角度"></a>角度</h3><p>读万卷书，行万里路。<br>换个位置，换个角度，去欣赏这个世界，或许会有不一样的发现</p>]]></content>
     
     <summary type="html">
     
@@ -32,7 +72,7 @@
     </summary>
     
     
-      <category term="实用" scheme="https://github.com/beitiezhu/tags/%E5%AE%9E%E7%94%A8/"/>
+      <category term="随笔" scheme="https://github.com/beitiezhu/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
